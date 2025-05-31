@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh; /*Importante colocar a propriedade "height: 100vh" para aplicar a ocupação de toda a tela pelas configurações do CSS*/
+    box-sizing: border-box; /*A propriedade e valor “box-sizing: border-box” se faz fundamental para garantir que nada ou nenhum elemento, saia das dimensões do elemento pai*/ 
+    background-color: #000000;
+    color: #F6F6F6;
+}
+
+.apresentacao{
+    margin: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
