@@ -53,13 +53,20 @@ body{
     display: flex;
     flex-direction: column;
     row-gap: 10px;
-    font-size: 25px;
+    font-size: 24px;
     font-family: "WDXL Lubrifont TC", sans-serif;
+    font-weight: 600;
+    width: 190px;
+    /*text-align: center;*/
 }
 
-.apresentacao__subtitulo__links__botoes{
-    background-color: #22D4FD
-}
+.apresentacao__subtitulo__links__botoes:hover{ /*A propriedade hover serve para alterar ou adicionar estilos em um elemento quando passar o cursor do mouse por cima dele.*/
+    background-color: #32CD32;
+    border-radius: 16px;
+    padding: 21.5px 3px;
+    color: #000000;
+    transition: 1s;
+}   
 
 .contatos {
     font-family: "Open Sans", sans-serif;
