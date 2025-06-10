@@ -57,31 +57,33 @@ body{
     font-family: "WDXL Lubrifont TC", sans-serif;
     font-weight: 600;
     width: 190px;
-    /*text-align: center;*/
+    text-align: center;
 }
 
-.apresentacao__subtitulo__links__botoes:hover{ /*A propriedade hover serve para alterar ou adicionar estilos em um elemento quando passar o cursor do mouse por cima dele.*/
+.apresentacao__subtitulo__links__botoes{ /*A propriedade hover serve para alterar ou adicionar estilos em um elemento quando passar o cursor do mouse por cima dele.*/
     background-color: #32CD32;
     border-radius: 16px;
     padding: 21.5px 3px;
     color: #000000;
-    transition: 1s;
+    cursor: pointer;
+    text-decoration: none; /* Remove sublinhas dos links */
 }   
+
+.apresentacao__subtitulo__links__botoes:hover {
+    background-color: #fff;
+    transition: 3s;
+}
 
 .contatos {
     font-family: "Open Sans", sans-serif;
-    font-size: 25px;
+    font-size: 20px;
+    text-decoration: none;
+    color: inherit;
 }
 
 .rodape {
     display: flex;
     justify-content: space-around;
     font-family: "Open Sans", sans-serif;
-    font-size: 20px;
-}
-
-a {
-    /*text-align: left;*/ 
-    text-decoration: none; /* Remove sublinhas dos links */
-    color: inherit; /* Mantém a cor do texto */
+    font-size: 25px;
 }
