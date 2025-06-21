@@ -71,7 +71,8 @@ body{
 
 .apresentacao__subtitulo__links__botoes:hover {
     background-color: #fff;
-    transition: 3s;
+    transition: 1s;
+    padding: 20px 30px;
 }
 
 .contatos {
