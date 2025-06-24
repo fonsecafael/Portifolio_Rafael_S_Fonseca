@@ -19,7 +19,7 @@ body{
 .cabecalho__navegacao__link{
     font-family: Arial, Helvetica, sans-serif; /*Subtituir por fonte melhor*/ /*PAREI AQUI EM CSS*/
     font-size: 20px;
-    font-weight: 500;
+    font-weight: bold;
     color:#39FF14;
     text-decoration: none;
 }
