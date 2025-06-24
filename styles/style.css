@@ -17,7 +17,7 @@ body{
     gap: 20px;
 }
 .cabecalho__navegacao__link{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif; /*Subtituir por fonte melhor*/ /*PAREI AQUI EM CSS*/
     font-size: 20px;
     font-weight: 500;
     color:#39FF14;
