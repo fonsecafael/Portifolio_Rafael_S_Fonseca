@@ -85,3 +85,11 @@ body{
     flex-direction: column;
     justify-content: space-around;
 }    
+.logos{ /*parei aqui*/
+    display: flex;
+    flex-direction: column;    
+}
+.logo_tecnologia{
+    width: 50px;
+    height: 50px;
+}
