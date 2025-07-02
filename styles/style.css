@@ -86,7 +86,7 @@ body{
     flex-direction: column;
     justify-content: space-around;
 }
-.rodape__titlo{
+.rodape__titulo{
     padding: 1%;
 }    
 .logos{ /*parei aqui*/
