@@ -24,82 +24,16 @@ body{
     text-decoration: none;
 }
 .apresentacao{
-    padding: 5% 5%;
+    padding: 1% 1%;
     display: flex;
+    flex-direction: row;
     align-items: center;
     justify-content: space-around;
 }
 .apresentacao__conteudo{
-    width: 615px;
-    display: flex;
-    flex-direction: column;
-    gap: 40px;
+    width: 870px;
 }
 .apresentacao__conteudo__titulo{
     font-size: 30px;
     font-family: 'Krona One', sans-serif;
-}
-.apresentacao__conteudo__texto{
-    font-size: 24px;
-    font-family: 'Montserrat', sans-serif;
-}
-.apresentacao__links{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    gap: 32px;
-    padding: 1%;
-}
-.apresentacao__links__subtitulo{
-    font-family: 'Krona One', sans-serif;
-    font-weight: 400;
-    font-size: 24px;
-}
-.apresentacao__links__link{
-    display: flex;
-    justify-content: center;
-    gap: 16px;
-    border: 2px solid #39FF14;
-    width: 300px;
-    text-align: center;
-    border-radius: 8px;
-    font-size: 18px;
-    font-weight: 600;
-    padding: 21.5px 0;
-    text-decoration: none;
-    color: #F6F6F6;
-    font-family: 'Montserrat', sans-serif;
-}
-.apresentacao__links__link:hover{
-    background-color: #272727;
-}
-.rodape {
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    background-color: #39FF14;
-    color: #000000;
-    padding: 0.1%;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 24px;
-    font-weight: 400;
-}
-.rodape__autor{
-    padding: 1% 0% 0% 1%;
-    font-size: 9px;
-}    
-.logos{ 
-    display: flex;
-    flex-direction: row;  
-    padding: 1%;
-    font-size: 10px;  
-}
-.logo_tecnologia__HTML5{
-    width: 30px;
-    height: 30px;
-}
-.logo_tecnologia__CSS3{
-    width: 21px;
-    height: 30px;
 }
