@@ -36,4 +36,28 @@ body{
 .apresentacao__conteudo__titulo{
     font-size: 30px;
     font-family: 'Krona One', sans-serif;
+    padding: 2% 0% 0% 0%;;
+}
+.apresentacao__conteudo__subtitulo{
+    font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+    padding: 2% 0% 1% 0%;
+}
+.apresentacao__conteudo__nome{
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 1% 0% 2% 0%;
+}
+.apresentacao__conteudo__texto{
+    font-size: 18px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 1% 0% 2% 0%;
+}
+.apresentacao__conteudo__texto__geral{
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 0% 0% 0% 0%;
+}
+.conteudo__informacoes__profissionais__atual{
+    padding: 0% 0% 0% 5%;
 }
