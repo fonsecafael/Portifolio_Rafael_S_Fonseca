@@ -43,6 +43,11 @@ body{
     font-family: 'Montserrat', sans-serif;
     padding: 2% 0% 1% 0%;
 }
+.apresentacao__conteudo__subtitulo__geral{
+    font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+    padding: 2% 0% 1% 5%;
+}
 .apresentacao__conteudo__nome{
     font-size: 20px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -60,4 +65,48 @@ body{
 }
 .conteudo__informacoes__profissionais__atual{
     padding: 0% 0% 0% 5%;
+}
+.estilização__de__links{
+    text-decoration: none;
+    color: #F6F6F6;
+}
+.formacoes__anos{
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    padding: 1% 0% 1% 5%;
+}
+.formacoes__textos{
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 0% 0% 0% 5%;
+}
+
+.rodape {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: #39FF14;
+    color: #000000;
+    padding: 0.1%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+.rodape__autor{
+    padding: 1% 0% 0% 1%;
+    font-size: 9px;
+}    
+.logos{ 
+    display: flex;
+    flex-direction: row;  
+    padding: 1%;
+    font-size: 10px;  
+}
+.logo_tecnologia__HTML5{
+    width: 30px;
+    height: 30px;
+}
+.logo_tecnologia__CSS3{
+    width: 21px;
+    height: 30px;
 }
