@@ -89,12 +89,12 @@ body{
     list-style-type: decimal;
 }*/
 ul {
-    margin-left: 0.5em;
+    margin-left: 1em;
     padding-left: 0.5em;
     list-style-type: disc;
 }
 ol {
-    margin-left: 0.5em;
+    margin-left: 1em;
     padding-left: 0.5em;
     list-style-type: decimal;
 }
