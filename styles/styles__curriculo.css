@@ -88,10 +88,15 @@ body{
 /*.formacoes__lista__ordenada{
     list-style-type: decimal;
 }*/
-ul, ol {
-    margin-left: 2em;
-    padding-left: 2em;
-    list-style-type: initial;
+ul {
+    margin-left: 1em;
+    padding-left: 1em;
+    list-style-type: disc;
+}
+ol {
+    margin-left: 1em;
+    padding-left: 1em;
+    list-style-type: decimal;
 }
 .rodape {
     display: flex;
