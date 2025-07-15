@@ -89,23 +89,23 @@ body{
     list-style-type: decimal;
 }*/
 ul {
-    margin-left: 1em;
-    padding-left: 0.5em;
+    margin-left: 0.1em;
+    padding-left: 0.1em;
     list-style-type: disc;
     list-style-position: inside; /*OBSERVAR POIS PODE SER O PROBLEMA*/
     list-style-image: none;
 }
 ol {
-    margin-left: 1em;
-    padding-left: 0.5em;
+    margin-left: 0.1em;
+    padding-left: 0.1em;
     list-style-type: decimal;
     list-style-position: inside; /*OBSERVAR POIS PODE SER O PROBLEMA*/
     list-style-image: none;
 }
 li {
-    margin-left: 1em;
-    padding-left: 0.5em;
-    list-style-type: decimal;
+    margin-left: 4em;
+    padding-left: 0.1em;
+    /*list-style-type:disc;*/
     list-style-position: inside; /*OBSERVAR POIS PODE SER O PROBLEMA*/
     list-style-image: none;
 }
