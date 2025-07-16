@@ -109,6 +109,11 @@ li {
     list-style-position: inside; /*OBSERVAR POIS PODE SER O PROBLEMA*/
     list-style-image: none;
 }
+ol li::marker {
+  font-family: 'Arial', sans-serif; /* muda a fonte dos números */
+  /*font-weight: bold;*/                /* opcional: negrito */
+  font-size: 1rem;                  /* opcional: tamanho da fonte */
+}
 /*p{
     padding: 0em;
     margin: 0%;
