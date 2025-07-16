@@ -109,6 +109,20 @@ li {
     list-style-position: inside; /*OBSERVAR POIS PODE SER O PROBLEMA*/
     list-style-image: none;
 }
+/*p{
+    padding: 0em;
+    margin: 0%;
+}*/
+.termos{
+    padding: 1% 0% 1% 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.definicoes{
+    padding: 0% 0% 1% 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
 .rodape {
     display: flex;
     justify-content: center;
