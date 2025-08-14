@@ -1,3 +1,7 @@
 17/07/25
 Continuar curso da Alura
 Obs.: Não esquecer de atualizar a instituição da pós,escanear o certificados e armazenar on-line para disponibilizar via link
+
+13/08/25
+Alterar os valores em pixels "px" das propridades font-size para "rem";
+ 
