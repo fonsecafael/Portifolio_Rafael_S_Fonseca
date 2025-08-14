@@ -28,7 +28,7 @@ body{
 }
 .cabecalho__navegacao__link{
     font-family: var(--fonte-primaria);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 400;
     color: var(--cor-terciaria);
     text-decoration: none;
@@ -41,12 +41,12 @@ body{
     text-align: justify;
 }
 .apresentacao__conteudo__titulo{
-    font-size: 30px;
+    font-size: 1.875rem;
     font-family: var(--fonte-primaria);
     padding: 2% 2% 2% 9%;
 }
 .apresentacao__conteudo__texto{
-    font-size: 18px;
+    font-size: 1.125rem;
     font-family: var(--fonte-terciaria);
     padding: 2% 2% 2% 9%;
     width: 750px;
@@ -67,18 +67,18 @@ body{
     color: var(--cor-primaria);
     padding: 0.1%;
     font-family: var(--fonte-secundaria);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 400;
 }
 .rodape__autor{
     padding: 1% 0% 0% 1%;
-    font-size: 9px;
+    font-size: 0.5625rem;
 }    
 .logos{ 
     display: flex;
     flex-direction: row;  
     padding: 1%;
-    font-size: 10px;  
+    font-size: 0.625rem;  
 }
 .logo_tecnologia__HTML5{
     width: 30px;

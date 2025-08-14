@@ -29,7 +29,7 @@ body{
 }
 .cabecalho__navegacao__link{
     font-family: var(--fonte-primaria);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 400;
     color:var(--cor-terciaria);
     text-decoration: none;
@@ -45,17 +45,17 @@ body{
     width: 870px;
 }
 .apresentacao__conteudo__titulo{
-    font-size: 30px;
+    font-size: 1.875rem;
     font-family: var(--fonte-primaria);
     padding: 2% 0% 0% 0%;
 }
 .apresentacao__conteudo__subtitulo{
-    font-size: 22px;
+    font-size: 1.375rem;
     font-family: var(--fonte-secundaria);
     padding: 2% 0% 1% 0%;
 }
 .apresentacao__conteudo__subtitulo__2{
-    font-size: 22px;
+    font-size: 1.375rem;
     font-family: var(--fonte-secundaria);
     padding: 2% 0% 1% 5%;
 }
@@ -70,12 +70,12 @@ body{
     padding: 1% 0% 2% 0%;
 }
 .apresentacao__conteudo__texto{
-    font-size: 18px;
+    font-size: 1.125rem;
     font-family: var(--fonte-terciaria);
     padding: 1% 0% 2% 0%;
 }
 .apresentacao__conteudo__texto__geral{
-    font-size: 16px;
+    font-size: 1rem;
     font-family: var(--fonte-terciaria);
     padding: 0% 0% 0% 0%;
 }
@@ -87,12 +87,12 @@ body{
     color: var(--cor-secundaria);
 }
 .formacoes__anos{
-    font-size: 16px;
+    font-size: 1rem;
     font-family: var(--fonte-secundaria);
     padding: 1% 0% 1% 5%;
 }
 .formacoes__textos{
-    font-size: 16px;
+    font-size: 1rem;
     font-family: var(--fonte-terciaria);
     padding: 0% 0% 0% 5%;
 }
@@ -128,12 +128,12 @@ ol li::marker {
 .termos{
     padding: 1% 0% 1% 5%;
     font-family: var(--fonte-termos-definicoes);
-    font-size: 12px;
+    font-size: 0.75rem;
 }
 .definicoes{
     padding: 0% 0% 1% 10%;
     font-family: var(--fonte-termos-definicoes);
-    font-size: 10px;
+    font-size: 0.625rem;
 }
 .rodape {
     display: flex;
@@ -143,18 +143,18 @@ ol li::marker {
     color: var(--cor-primaria);
     padding: 0.1%;
     font-family: var(--fonte-secundaria);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 400;
 }
 .rodape__autor{
     padding: 1% 0% 0% 1%;
-    font-size: 9px;
+    font-size: 0.5625rem;
 }    
 .logos{ 
     display: flex;
     flex-direction: row;  
     padding: 1%;
-    font-size: 10px;  
+    font-size: 0.625rem;  
 }
 .logo_tecnologia__HTML5{
     width: 30px;
